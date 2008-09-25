@@ -1,0 +1,5 @@
+README
+MANIFEST
+test.pl
+lib/Serasa/RX25/Layout/Output.pm
+t/Serasa-RX25-Layout-Output.t
